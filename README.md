@@ -1,2 +1,2 @@
-#AcademiaConnect
-College Managment System 
+AcademiaConnect
+College Management System 
