@@ -13,3 +13,11 @@ Student Feedback System: A feature allowing students to submit feedback on cours
 Automated Attendance Tracking: An efficient system for recording and managing student attendance, reducing manual effort and errors.
 Automated Result Generation: Streamlines the process of compiling and distributing student results, ensuring accuracy and timeliness.
 Robust Design and Deployment
+Screenshots : 
+![output1](https://github.com/omkar-garvare/AcademiaConnect/assets/127541450/060a4057-438c-4aa8-8c4a-f41379464190)
+
+![output2](https://github.com/omkar-garvare/AcademiaConnect/assets/127541450/46f67898-3ead-4afd-b00a-b5057212fb20)
+
+![output4](https://github.com/omkar-garvare/AcademiaConnect/assets/127541450/8b96048b-d74d-43ba-8393-5b99adb7584b)
+
+![output3](https://github.com/omkar-garvare/AcademiaConnect/assets/127541450/0a22abed-224d-442b-9861-4133fa086f83)
