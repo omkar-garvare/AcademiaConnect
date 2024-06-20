@@ -21,3 +21,6 @@ Screenshots :
 ![output4](https://github.com/omkar-garvare/AcademiaConnect/assets/127541450/8b96048b-d74d-43ba-8393-5b99adb7584b)
 
 ![output3](https://github.com/omkar-garvare/AcademiaConnect/assets/127541450/0a22abed-224d-442b-9861-4133fa086f83)
+
+![output5](https://github.com/omkar-garvare/AcademiaConnect/assets/127541450/d8490cf4-68eb-47a9-baf2-2dc1c5d4a5bc)
+
